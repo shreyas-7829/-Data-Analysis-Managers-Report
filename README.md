@@ -97,6 +97,8 @@ This project focuses on analyzing sales data to derive insights into sales perfo
 - Road Bikes remain the top subcategory but with increased sales contribution to 50%.
 - Added analysis for the **"Mountain-200 Black, 46"** product as the first-ranked individual product.
 
+![Image](https://github.com/user-attachments/assets/74e4255d-4868-4114-92e4-5912cb717ce6)
+
 ---
 
 ## Contact
